@@ -4,7 +4,7 @@ This project was completed as part of the course requirements of Udacity's [Data
 ## Overview
 The project explored annual global temperature trends from the 1700s to 2000s and compared these to trends in six Canadian cities.
 
-### Statistical Examinations
+### Statistical Analysis
 - Moving average
 - Correlation, including p-value calculations and variance discussion
 - T-tests
